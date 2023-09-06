@@ -9,3 +9,5 @@ for i in range(300):
     turtle.circle(i, 360)
     turtle.right(10)
 
+#изменения
+
